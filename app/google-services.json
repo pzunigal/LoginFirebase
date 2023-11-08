@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543659284880",
+    "project_id": "loginfirebase-cdba6",
+    "storage_bucket": "loginfirebase-cdba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543659284880:android:07548458d323c5ca03bb15",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_OjOLA_VHjXY-xsfY05N2GP-MKKQVRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
